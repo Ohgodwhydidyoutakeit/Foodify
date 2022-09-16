@@ -1,0 +1,16 @@
+{
+  "name": "firefoxfoodextension",
+  "version": "1.0.0",
+  "description": "Basically we want to start with pyszne, uber then add more restaurants",
+  "main": "Foodify.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"npx web-ext run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "web-ext": "^7.2.0"
+  }
+}
